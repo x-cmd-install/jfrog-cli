@@ -1,0 +1,61 @@
+about:
+  description: JFrog CLI is a client that provides a simple interface that automates access to the JFrog products.
+  license: Apache-2.0
+  homepage: https://www.jfrog.com/confluence/display/CLI/JFrog+CLI
+  head: ed8d262
+  archived: false
+  latestVersion: v2.122.0
+  collectedAt: 2026-08-29T07:21:47Z
+timeline:
+  created: 2015-08-18
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-26
+popularity:
+  star: 597
+  watcher: 54
+  fork: 306
+  release: 361
+  contributor: 145
+  pullRequest: 560
+  issue: 1112
+language:
+  Go: 2610709
+  Shell: 58040
+  JavaScript: 8906
+  Makefile: 5395
+  Dockerfile: 1300
+  Batchfile: 82
+totalLine: 2684432
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 6
+    mergedPR: 28
+    openPR: 12
+    closedIssue: 0
+    openIssue: 6
+    commit: 36
+  last90d:
+    since: 2026-05-31
+    release: 16
+    mergedPR: 96
+    openPR: 23
+    closedIssue: 4
+    openIssue: 9
+    commit: 100
+  last180d:
+    since: 2026-03-02
+    release: 28
+    mergedPR: 177
+    openPR: 33
+    closedIssue: 11
+    openIssue: 26
+    commit: 180
+  last360d:
+    since: 2025-09-03
+    release: 46
+    mergedPR: 312
+    openPR: 34
+    closedIssue: 30
+    openIssue: 34
+    commit: 313
