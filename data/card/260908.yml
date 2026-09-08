@@ -5,7 +5,7 @@ about:
   head: 0042b2a
   archived: false
   latestVersion: "v2.124.0"
-  collectedAt: 2026-09-08T01:29:21Z
+  collectedAt: 2026-09-08T03:28:27Z
 timeline:
   created: 2015-08-18
   lastCommit: 2026-09-07
@@ -84,7 +84,7 @@ total:
   commit: 3198
 ---
 path: /home/runner/.x-repo/github.com/jfrog/jfrog-cli
-collectedAt: 2026-09-08T01:29:29Z
+collectedAt: 2026-09-08T03:28:33Z
 loc:
   Go:
     code: 63303
