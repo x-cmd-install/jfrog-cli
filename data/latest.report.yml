@@ -2,15 +2,15 @@ about:
   description: "JFrog CLI is a client that provides a simple interface that automates access to the JFrog products."
   license: Apache-2.0
   homepage: https://www.jfrog.com/confluence/display/CLI/JFrog+CLI
-  head: 2823137
+  head: 73ae6d1
   archived: false
   latestVersion: "v2.124.0"
   latestRelease: "v2.124.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:12:15Z
+  collectedAt: 2026-09-09T18:18:46Z
 timeline:
   created: 2015-08-18
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-07
   lastRelease: 2026-09-07
   lastPrerelease: 
@@ -20,7 +20,7 @@ popularity:
   fork: 307
   release: 363
   contributor: 115
-  pullRequest: 2381
+  pullRequest: 2382
   issue: 1113
 language:
   Go: 2925460
@@ -34,61 +34,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 5
-    mergedPR: 22
-    openPR: 11
+    mergedPR: 24
+    openPR: 10
     closedIssue: 0
     openIssue: 5
-    commit: 26
+    commit: 28
   last60d:
     since: 2026-07-11
     release: 10
-    mergedPR: 56
-    openPR: 14
+    mergedPR: 58
+    openPR: 13
     closedIssue: 1
     openIssue: 8
-    commit: 60
+    commit: 62
   last90d:
     since: 2026-06-11
     release: 16
-    mergedPR: 93
-    openPR: 21
+    mergedPR: 95
+    openPR: 20
     closedIssue: 4
     openIssue: 10
-    commit: 95
+    commit: 97
   last180d:
     since: 2026-03-13
     release: 27
-    mergedPR: 179
-    openPR: 33
+    mergedPR: 181
+    openPR: 32
     closedIssue: 9
     openIssue: 27
-    commit: 178
+    commit: 180
   last360d:
     since: 2025-09-14
     release: 47
-    mergedPR: 319
-    openPR: 34
+    mergedPR: 321
+    openPR: 33
     closedIssue: 31
     openIssue: 34
-    commit: 313
+    commit: 315
   last720d:
     since: 2024-09-19
     release: 81
-    mergedPR: 470
-    openPR: 34
+    mergedPR: 472
+    openPR: 33
     closedIssue: 110
     openIssue: 34
-    commit: 578
+    commit: 580
 total:
   release: 363
-  mergedPR: 1816
-  openPR: 34
+  mergedPR: 1818
+  openPR: 33
   closedIssue: 1079
   openIssue: 34
-  commit: 3202
+  commit: 3204
 ---
 path: /home/runner/.x-repo/github.com/jfrog/jfrog-cli
-collectedAt: 2026-09-09T03:12:21Z
+collectedAt: 2026-09-09T18:18:51Z
 loc:
   Go:
     code: 63303
