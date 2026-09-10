@@ -21,8 +21,7 @@ x install jfrog-cli
 ## Release
 
 - **Latest**: `v2.124.0` (2026-09-07)
-- **Last commit**: 2026-09-09
-- **Published**: 2026-09-07T13:53:21Z
+- **Last commit**: 2026-09-10
 
 ## Popularity
 
@@ -30,23 +29,23 @@ x install jfrog-cli
 
 ## Totals (cumulative)
 
-- **Releases**: 363 · **Merged PRs**: 1818 · **Open PRs**: 34 · **Closed issues**: 1079 · **Open issues**: 34 · **Commits**: 3204
+- **Releases**: 363 · **Merged PRs**: 1819 · **Open PRs**: 33 · **Closed issues**: 1079 · **Open issues**: 34 · **Commits**: 3205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 23 | 11 | 0 | 5 | 28 |
-| 90d | 2026-06-12 | 15 | 95 | 21 | 4 | 10 | 97 |
-| 360d | 2025-09-15 | 47 | 321 | 34 | 31 | 34 | 315 |
+| 30d | 2026-08-11 | 5 | 23 | 11 | 0 | 5 | 29 |
+| 90d | 2026-06-12 | 15 | 96 | 20 | 4 | 10 | 98 |
+| 360d | 2025-09-15 | 47 | 322 | 33 | 31 | 34 | 316 |
 
 ## Code size
 
-Total: **73,624** lines of code across **601** files in the top 5 languages.
+Total: **73,931** lines of code across **601** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 63,303 | 7,803 | 11,215 | 279 |
+| Go | 63,610 | 7,886 | 11,259 | 279 |
 | Json | 3,157 | 0 | 8 | 232 |
 | Sh | 2,188 | 308 | 386 | 29 |
 | Hcl | 1,694 | 240 | 384 | 39 |
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jfrog-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jfrog-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jfrog-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:12:23Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:02:00Z._
