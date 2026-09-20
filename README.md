@@ -4,7 +4,7 @@
 
 JFrog CLI is a client that provides a simple interface that automates access to the JFrog products.
 
-![jfrog-cli](https://repo.x-cmd.io/jfrog-cli.svg)
+[![x-cmd/install — jfrog-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jfrog-cli.svg)](https://x-cmd.com/install/jfrog-cli)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 597 · **Forks**: 307 · **Open issues**: 1,114 · **Contributors**: 115
+- **Stars**: 595 · **Forks**: 307 · **Open issues**: 1,113 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 363 · **Merged PRs**: 1823 · **Open PRs**: 31 · **Closed issues**: 1079 · **Open issues**: 35 · **Commits**: 3209
+- **Releases**: 363 · **Merged PRs**: 1823 · **Open PRs**: 32 · **Closed issues**: 1079 · **Open issues**: 34 · **Commits**: 3209
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 17 | 10 | 0 | 2 | 22 |
-| last60d | 2026-07-20 | 9 | 57 | 11 | 0 | 9 | 64 |
-| 90d | 2026-06-20 | 14 | 88 | 16 | 3 | 11 | 92 |
-| last180d | 2026-03-22 | 27 | 179 | 30 | 8 | 28 | 184 |
-| 360d | 2025-09-23 | 46 | 304 | 31 | 30 | 35 | 306 |
-| last720d | 2024-09-28 | 78 | 474 | 31 | 109 | 35 | 574 |
+| 30d | 2026-08-21 | 3 | 17 | 10 | 0 | 3 | 22 |
+| last60d | 2026-07-22 | 9 | 56 | 12 | 0 | 10 | 64 |
+| 90d | 2026-06-22 | 14 | 85 | 17 | 3 | 12 | 92 |
+| last180d | 2026-03-24 | 27 | 179 | 31 | 8 | 27 | 184 |
+| 360d | 2025-09-25 | 46 | 300 | 32 | 30 | 34 | 306 |
+| last720d | 2024-09-30 | 78 | 474 | 32 | 109 | 34 | 574 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:18:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:31:39Z._
