@@ -4,7 +4,7 @@
 
 JFrog CLI is a client that provides a simple interface that automates access to the JFrog products.
 
-[![x-cmd/install — jfrog-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jfrog-cli.svg?lang=zh)](https://x-cmd.com/install/jfrog-cli)
+[![x-cmd/install — jfrog-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jfrog-cli.svg?lang=zh)](https://x-cmd.com/install/jfrog-cli)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install jfrog-cli
 
 ## 代码洞察
 
-合计: **74,905** 行代码（覆盖前 5 种语言、共 **604** 个文件）。
+合计: **76,770** 行代码（覆盖前 5 种语言、共 **605** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 64,544 | 8,070 | 11,409 | 279 |
+| Go | 66,409 | 8,674 | 11,790 | 280 |
 | Json | 3,197 | 0 | 8 | 235 |
 | Sh | 2,188 | 308 | 386 | 29 |
 | Hcl | 1,694 | 240 | 384 | 39 |
@@ -43,7 +43,7 @@ x install jfrog-cli
 ## 发布
 
 - **最新版本**: `v2.124.0` (2026-09-07)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
@@ -51,18 +51,18 @@ x install jfrog-cli
 
 ## 累计统计
 
-- **发布数**: 363 · **已合并 PR**: 1824 · **开放 PR**: 33 · **已关闭 issue**: 1080 · **开放 issue**: 33 · **提交数**: 3210
+- **发布数**: 363 · **已合并 PR**: 1825 · **开放 PR**: 33 · **已关闭 issue**: 1080 · **开放 issue**: 33 · **提交数**: 3211
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 18 | 11 | 0 | 3 | 21 |
-| last60d | 2026-07-24 | 8 | 56 | 13 | 1 | 9 | 59 |
-| 90d | 2026-06-24 | 14 | 84 | 18 | 3 | 11 | 85 |
-| last180d | 2026-03-26 | 27 | 175 | 32 | 9 | 26 | 179 |
-| 360d | 2025-09-27 | 44 | 299 | 33 | 31 | 33 | 301 |
-| last720d | 2024-10-02 | 78 | 474 | 33 | 109 | 33 | 575 |
+| 30d | 2026-08-24 | 3 | 18 | 11 | 0 | 3 | 22 |
+| last60d | 2026-07-25 | 8 | 57 | 13 | 1 | 9 | 60 |
+| 90d | 2026-06-25 | 14 | 84 | 18 | 2 | 11 | 86 |
+| last180d | 2026-03-27 | 26 | 176 | 32 | 9 | 26 | 180 |
+| 360d | 2025-09-28 | 44 | 300 | 33 | 31 | 33 | 302 |
+| last720d | 2024-10-03 | 78 | 474 | 33 | 109 | 33 | 576 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ jfrog-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T03:25:36Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T03:26:59Z._

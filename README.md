@@ -4,7 +4,7 @@
 
 JFrog CLI is a client that provides a simple interface that automates access to the JFrog products.
 
-[![x-cmd/install — jfrog-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jfrog-cli.svg)](https://x-cmd.com/install/jfrog-cli)
+[![x-cmd/install — jfrog-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jfrog-cli.svg)](https://x-cmd.com/install/jfrog-cli)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install jfrog-cli
 
 ## Code insight
 
-Total: **74,905** lines of code across **604** files in the top 5 languages.
+Total: **76,770** lines of code across **605** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 64,544 | 8,070 | 11,409 | 279 |
+| Go | 66,409 | 8,674 | 11,790 | 280 |
 | Json | 3,197 | 0 | 8 | 235 |
 | Sh | 2,188 | 308 | 386 | 29 |
 | Hcl | 1,694 | 240 | 384 | 39 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.124.0` (2026-09-07)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 363 · **Merged PRs**: 1824 · **Open PRs**: 33 · **Closed issues**: 1080 · **Open issues**: 33 · **Commits**: 3210
+- **Releases**: 363 · **Merged PRs**: 1825 · **Open PRs**: 33 · **Closed issues**: 1080 · **Open issues**: 33 · **Commits**: 3211
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 18 | 11 | 0 | 3 | 21 |
-| last60d | 2026-07-24 | 8 | 56 | 13 | 1 | 9 | 59 |
-| 90d | 2026-06-24 | 14 | 84 | 18 | 3 | 11 | 85 |
-| last180d | 2026-03-26 | 27 | 175 | 32 | 9 | 26 | 179 |
-| 360d | 2025-09-27 | 44 | 299 | 33 | 31 | 33 | 301 |
-| last720d | 2024-10-02 | 78 | 474 | 33 | 109 | 33 | 575 |
+| 30d | 2026-08-24 | 3 | 18 | 11 | 0 | 3 | 22 |
+| last60d | 2026-07-25 | 8 | 57 | 13 | 1 | 9 | 60 |
+| 90d | 2026-06-25 | 14 | 84 | 18 | 2 | 11 | 86 |
+| last180d | 2026-03-27 | 26 | 176 | 32 | 9 | 26 | 180 |
+| 360d | 2025-09-28 | 44 | 300 | 33 | 31 | 33 | 302 |
+| last720d | 2024-10-03 | 78 | 474 | 33 | 109 | 33 | 576 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:25:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:26:58Z._
