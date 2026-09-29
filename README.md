@@ -14,11 +14,11 @@ x install jfrog-cli
 
 ## Code insight
 
-Total: **77,449** lines of code across **607** files in the top 5 languages.
+Total: **77,871** lines of code across **610** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 67,068 | 8,795 | 11,904 | 282 |
+| Go | 67,490 | 8,921 | 11,953 | 285 |
 | Json | 3,197 | 0 | 8 | 235 |
 | Sh | 2,188 | 308 | 386 | 29 |
 | Hcl | 1,694 | 240 | 384 | 39 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.124.0` (2026-09-07)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 363 · **Merged PRs**: 1826 · **Open PRs**: 34 · **Closed issues**: 1080 · **Open issues**: 33 · **Commits**: 3212
+- **Releases**: 363 · **Merged PRs**: 1827 · **Open PRs**: 33 · **Closed issues**: 1081 · **Open issues**: 32 · **Commits**: 3213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 14 | 11 | 0 | 3 | 15 |
-| last60d | 2026-07-30 | 8 | 50 | 14 | 0 | 9 | 54 |
-| 90d | 2026-06-30 | 12 | 78 | 19 | 2 | 10 | 77 |
-| last180d | 2026-04-01 | 26 | 171 | 32 | 9 | 24 | 174 |
-| 360d | 2025-10-03 | 43 | 298 | 34 | 31 | 33 | 299 |
-| last720d | 2024-10-08 | 78 | 475 | 34 | 108 | 33 | 575 |
+| 30d | 2026-08-30 | 2 | 15 | 10 | 0 | 3 | 16 |
+| last60d | 2026-07-31 | 7 | 50 | 13 | 1 | 7 | 55 |
+| 90d | 2026-07-01 | 12 | 75 | 18 | 3 | 8 | 78 |
+| last180d | 2026-04-02 | 25 | 172 | 31 | 10 | 23 | 175 |
+| 360d | 2025-10-04 | 43 | 299 | 33 | 32 | 32 | 300 |
+| last720d | 2024-10-09 | 78 | 476 | 33 | 109 | 32 | 576 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T03:47:11Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:22:43Z._
