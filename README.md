@@ -30,8 +30,8 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.124.0` (2026-09-07)
-- **Last commit**: 2026-09-29
+- **Latest**: `v2.126.0` (2026-10-06)
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
-- **Stars**: 596 · **Forks**: 308 · **Open issues**: 1,114 · **Contributors**: 115
+- **Stars**: 597 · **Forks**: 308 · **Open issues**: 1,114 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 363 · **Merged PRs**: 1828 · **Open PRs**: 31 · **Closed issues**: 1082 · **Open issues**: 32 · **Commits**: 3214
+- **Releases**: 365 · **Merged PRs**: 1829 · **Open PRs**: 30 · **Closed issues**: 1082 · **Open issues**: 32 · **Commits**: 3215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 11 | 8 | 0 | 3 | 9 |
-| last60d | 2026-08-07 | 6 | 38 | 12 | 1 | 7 | 45 |
-| 90d | 2026-07-08 | 11 | 71 | 14 | 3 | 9 | 73 |
-| last180d | 2026-04-09 | 24 | 169 | 29 | 10 | 24 | 171 |
-| 360d | 2025-10-11 | 43 | 294 | 31 | 33 | 32 | 296 |
-| last720d | 2024-10-16 | 77 | 474 | 31 | 105 | 32 | 574 |
+| 30d | 2026-09-07 | 3 | 10 | 7 | 0 | 3 | 10 |
+| last60d | 2026-08-08 | 7 | 39 | 12 | 1 | 7 | 46 |
+| 90d | 2026-07-09 | 12 | 70 | 14 | 3 | 9 | 74 |
+| last180d | 2026-04-10 | 26 | 170 | 29 | 10 | 23 | 172 |
+| 360d | 2025-10-12 | 45 | 295 | 30 | 33 | 32 | 297 |
+| last720d | 2024-10-17 | 79 | 475 | 30 | 105 | 32 | 575 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T04:59:29Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T04:26:31Z._
