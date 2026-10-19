@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 3 | 8 | 5 | 0 | 4 | 10 |
-| last60d | 2026-08-19 | 7 | 27 | 13 | 0 | 7 | 37 |
-| 90d | 2026-07-20 | 12 | 67 | 14 | 2 | 12 | 74 |
-| last180d | 2026-04-21 | 25 | 164 | 27 | 10 | 21 | 171 |
-| 360d | 2025-10-23 | 45 | 292 | 29 | 35 | 33 | 296 |
-| last720d | 2024-10-28 | 79 | 472 | 29 | 106 | 33 | 557 |
+| 30d | 2026-09-19 | 3 | 8 | 5 | 0 | 4 | 8 |
+| last60d | 2026-08-20 | 6 | 27 | 12 | 0 | 7 | 32 |
+| 90d | 2026-07-21 | 12 | 67 | 14 | 2 | 12 | 72 |
+| last180d | 2026-04-22 | 24 | 164 | 27 | 10 | 20 | 168 |
+| 360d | 2025-10-24 | 45 | 292 | 29 | 35 | 33 | 290 |
+| last720d | 2024-10-29 | 78 | 472 | 29 | 106 | 33 | 553 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T03:07:53Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T03:21:37Z._
