@@ -30,9 +30,9 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 3 | 8 | 5 | 0 | 5 | 10 |
-| last60d | 2026-08-22 | 6 | 29 | 12 | 0 | 8 | 34 |
-| 90d | 2026-07-23 | 11 | 67 | 14 | 2 | 13 | 74 |
-| last180d | 2026-04-24 | 24 | 165 | 26 | 10 | 20 | 170 |
-| 360d | 2025-10-26 | 45 | 294 | 27 | 36 | 33 | 292 |
-| last720d | 2024-10-31 | 78 | 473 | 27 | 107 | 33 | 554 |
+| 30d | 2026-09-22 | 3 | 8 | 4 | 0 | 5 | 10 |
+| last60d | 2026-08-23 | 6 | 29 | 12 | 0 | 8 | 34 |
+| 90d | 2026-07-24 | 11 | 67 | 14 | 2 | 13 | 74 |
+| last180d | 2026-04-25 | 24 | 165 | 26 | 10 | 20 | 170 |
+| 360d | 2025-10-27 | 45 | 294 | 27 | 36 | 33 | 292 |
+| last720d | 2024-11-01 | 78 | 473 | 27 | 107 | 33 | 554 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T03:24:45Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T03:23:45Z._
