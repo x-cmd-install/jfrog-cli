@@ -51,17 +51,6 @@
   summary: JFrog CLI is a compact and smart client that provides a simple interface that automates access to Artifactory, Bintray and Mission Control through their respective REST APIs.
   licenses:
     - Apache-2.0, BSD, BSD-2, MIT and MPL-2.0
-- repo: nix_stable_25_11
-  srcname: jfrog-cli
-  visiblename: jfrog-cli
-  version: 2.78.10
-  origversion: null
-  status: outdated
-  summary: Client for accessing to JFrog's Artifactory and Mission Control through their respective REST APIs
-  maintainers:
-    - detegr@rbx.email
-  licenses:
-    - Apache-2.0
 - repo: epel_9
   srcname: jfrog-cli
   binnames:
@@ -69,8 +58,8 @@
     - jfrog-cli-debuginfo
     - jfrog-cli-debugsource
   visiblename: jfrog-cli
-  version: 2.126.0
-  origversion: 2.126.0-1.el9
+  version: 2.127.0
+  origversion: 2.127.0-1.el9
   status: outdated
   summary: CLI to automate access to JFrog products
   licenses:
@@ -84,8 +73,8 @@
     - jfrog-cli-debuginfo
     - jfrog-cli-debugsource
   visiblename: jfrog-cli
-  version: 2.126.0
-  origversion: 2.126.0-1.el10_3
+  version: 2.127.0
+  origversion: 2.127.0-1.el10_3
   status: outdated
   summary: CLI to automate access to JFrog products
   licenses:
@@ -156,15 +145,6 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense
   categories:
     - Unspecified
-- repo: wakemeops
-  subrepo: devops
-  binname: jfrog-cli
-  visiblename: jfrog-cli
-  version: 2.115.0
-  origversion: 2.115.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: gentoo
   srcname: dev-util/jfrog-cli
   visiblename: dev-util/jfrog-cli
@@ -298,6 +278,15 @@
     - MPL-2.0
   categories:
     - dev-util
+- repo: wakemeops
+  subrepo: devops
+  binname: jfrog-cli
+  visiblename: jfrog-cli
+  version: 2.127.0
+  origversion: 2.127.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: liguros_stable
   srcname: dev-util/jfrog-cli
   visiblename: dev-util/jfrog-cli
@@ -521,6 +510,17 @@
     - aidalgol+nixpkgs@fastmail.net
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: jfrog-cli
+  visiblename: jfrog-cli
+  version: 2.78.10
+  origversion: null
+  status: outdated
+  summary: Client for accessing to JFrog's Artifactory and Mission Control through their respective REST APIs
+  maintainers:
+    - detegr@rbx.email
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: jfrog-cli
   visiblename: jfrog-cli
@@ -588,15 +588,6 @@
   version: 2.128.0
   origversion: 2.128.0-1~ops2deb
   status: newest
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: jfrog-cli
-  visiblename: jfrog-cli
-  version: 2.127.0
-  origversion: 2.127.0-1~ops2deb
-  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -686,6 +677,15 @@
   visiblename: jfrog-cli
   version: 2.116.0
   origversion: 2.116.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: jfrog-cli
+  visiblename: jfrog-cli
+  version: 2.115.0
+  origversion: 2.115.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
