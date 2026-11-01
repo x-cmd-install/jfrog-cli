@@ -57,24 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 5 | 9 | 5 | 2 | 4 | 10 |
-| last60d | 2026-09-01 | 7 | 24 | 11 | 2 | 7 | 31 |
-| 90d | 2026-08-02 | 12 | 58 | 15 | 3 | 11 | 69 |
-| last180d | 2026-05-04 | 25 | 161 | 27 | 12 | 17 | 166 |
-| 360d | 2025-11-05 | 46 | 291 | 29 | 36 | 32 | 295 |
-| last720d | 2024-11-10 | 79 | 471 | 29 | 107 | 32 | 552 |
-
-## Distribution status
-
-Reported by **90** distros on [repology.org](https://repology.org/project/jfrog-cli). **6** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.129.0` | ✅ latest |
-| Fedora rawhide | `2.128.0` | ⚠️ outdated |
-| Nix unstable | `2.124.0` | ⚠️ outdated |
-| Alpine edge | `2.45.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.127.0` | ⚠️ outdated |
+| 30d | 2026-10-02 | 5 | 9 | 5 | 2 | 3 | 10 |
+| last60d | 2026-09-02 | 7 | 21 | 11 | 2 | 6 | 31 |
+| 90d | 2026-08-03 | 12 | 57 | 15 | 3 | 11 | 69 |
+| last180d | 2026-05-05 | 25 | 159 | 27 | 12 | 17 | 166 |
+| 360d | 2025-11-06 | 46 | 288 | 29 | 36 | 32 | 295 |
+| last720d | 2024-11-11 | 79 | 470 | 29 | 107 | 32 | 551 |
 
 ## Improve this data
 
@@ -85,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T04:10:58Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T04:31:12Z._
