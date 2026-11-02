@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.129.0` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-01
 
 ## Popularity
 
@@ -51,18 +51,30 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 368 · **Merged PRs**: 1837 · **Open PRs**: 29 · **Closed issues**: 1087 · **Open issues**: 32 · **Commits**: 3224
+- **Releases**: 368 · **Merged PRs**: 1838 · **Open PRs**: 28 · **Closed issues**: 1087 · **Open issues**: 32 · **Commits**: 3225
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 5 | 9 | 5 | 2 | 3 | 10 |
-| last60d | 2026-09-02 | 7 | 21 | 11 | 2 | 6 | 31 |
-| 90d | 2026-08-03 | 12 | 57 | 15 | 3 | 11 | 69 |
-| last180d | 2026-05-05 | 25 | 159 | 27 | 12 | 17 | 166 |
-| 360d | 2025-11-06 | 46 | 288 | 29 | 36 | 32 | 295 |
-| last720d | 2024-11-11 | 79 | 470 | 29 | 107 | 32 | 551 |
+| 30d | 2026-10-03 | 5 | 10 | 4 | 2 | 3 | 10 |
+| last60d | 2026-09-03 | 7 | 21 | 10 | 2 | 6 | 23 |
+| 90d | 2026-08-04 | 12 | 55 | 14 | 3 | 11 | 57 |
+| last180d | 2026-05-06 | 25 | 160 | 26 | 12 | 17 | 165 |
+| 360d | 2025-11-07 | 46 | 289 | 28 | 36 | 32 | 289 |
+| last720d | 2024-11-12 | 79 | 470 | 28 | 107 | 32 | 551 |
+
+## Distribution status
+
+Reported by **90** distros on [repology.org](https://repology.org/project/jfrog-cli). **8** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.129.0` | ✅ latest |
+| Fedora rawhide | `2.129.0` | ✅ latest |
+| Nix unstable | `2.124.0` | ⚠️ outdated |
+| Alpine edge | `2.45.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.127.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +85,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T04:31:12Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T04:33:50Z._
