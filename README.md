@@ -14,11 +14,11 @@ x install jfrog-cli
 
 ## Code insight
 
-Total: **77,908** lines of code across **610** files in the top 5 languages.
+Total: **77,947** lines of code across **610** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 67,527 | 8,929 | 11,955 | 285 |
+| Go | 67,566 | 8,939 | 11,961 | 285 |
 | Json | 3,197 | 0 | 8 | 235 |
 | Sh | 2,188 | 308 | 386 | 29 |
 | Hcl | 1,694 | 240 | 384 | 39 |
@@ -42,36 +42,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.130.0` (2026-11-02)
-- **Last commit**: 2026-11-02
+- **Latest**: `v2.131.0` (2026-11-03)
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
-- **Stars**: 597 · **Forks**: 311 · **Open issues**: 1,120 · **Contributors**: 115
+- **Stars**: 597 · **Forks**: 311 · **Open issues**: 1,121 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 369 · **Merged PRs**: 1839 · **Open PRs**: 29 · **Closed issues**: 1088 · **Open issues**: 32 · **Commits**: 3226
+- **Releases**: 370 · **Merged PRs**: 1841 · **Open PRs**: 29 · **Closed issues**: 1088 · **Open issues**: 33 · **Commits**: 3228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 6 | 11 | 5 | 2 | 4 | 11 |
-| last60d | 2026-09-04 | 7 | 22 | 11 | 2 | 7 | 24 |
-| 90d | 2026-08-05 | 13 | 55 | 15 | 3 | 12 | 58 |
-| last180d | 2026-05-07 | 26 | 160 | 27 | 12 | 18 | 166 |
-| 360d | 2025-11-08 | 47 | 290 | 29 | 37 | 32 | 290 |
-| last720d | 2024-11-13 | 80 | 469 | 29 | 107 | 32 | 551 |
+| 30d | 2026-10-05 | 7 | 13 | 5 | 2 | 5 | 13 |
+| last60d | 2026-09-05 | 8 | 24 | 11 | 2 | 8 | 26 |
+| 90d | 2026-08-06 | 14 | 55 | 15 | 3 | 12 | 60 |
+| last180d | 2026-05-08 | 27 | 162 | 27 | 11 | 18 | 168 |
+| 360d | 2025-11-09 | 48 | 292 | 29 | 37 | 33 | 292 |
+| last720d | 2024-11-14 | 80 | 470 | 29 | 106 | 33 | 548 |
 
 ## Distribution status
 
-Reported by **90** distros on [repology.org](https://repology.org/project/jfrog-cli). **5** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **90** distros on [repology.org](https://repology.org/project/jfrog-cli). **6** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.130.0` | ✅ latest |
-| Fedora rawhide | `2.129.0` | ⚠️ outdated |
+| Homebrew | `2.131.0` | ✅ latest |
+| Fedora rawhide | `2.130.0` | ⚠️ outdated |
 | Nix unstable | `2.124.0` | ⚠️ outdated |
 | Alpine edge | `2.45.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.129.0` | ⚠️ outdated |
@@ -85,4 +85,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:27:34Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T04:55:59Z._
