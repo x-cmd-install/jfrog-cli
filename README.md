@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 597 · **Forks**: 311 · **Open issues**: 1,121 · **Contributors**: 115
+- **Stars**: 597 · **Forks**: 310 · **Open issues**: 1,121 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 370 · **Merged PRs**: 1842 · **Open PRs**: 27 · **Closed issues**: 1089 · **Open issues**: 32 · **Commits**: 3229
+- **Releases**: 370 · **Merged PRs**: 1842 · **Open PRs**: 29 · **Closed issues**: 1089 · **Open issues**: 32 · **Commits**: 3229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 7 | 13 | 4 | 2 | 5 | 14 |
-| last60d | 2026-09-06 | 8 | 25 | 10 | 2 | 8 | 27 |
-| 90d | 2026-08-07 | 13 | 52 | 14 | 3 | 12 | 61 |
-| last180d | 2026-05-09 | 27 | 162 | 26 | 11 | 18 | 169 |
-| 360d | 2025-11-10 | 48 | 291 | 27 | 38 | 32 | 293 |
-| last720d | 2024-11-15 | 80 | 471 | 27 | 107 | 32 | 549 |
+| 30d | 2026-10-07 | 5 | 13 | 6 | 2 | 5 | 14 |
+| last60d | 2026-09-07 | 8 | 23 | 11 | 2 | 8 | 27 |
+| 90d | 2026-08-08 | 12 | 52 | 16 | 3 | 12 | 61 |
+| last180d | 2026-05-10 | 27 | 162 | 28 | 11 | 18 | 169 |
+| 360d | 2025-11-11 | 48 | 289 | 29 | 38 | 32 | 293 |
+| last720d | 2024-11-16 | 80 | 471 | 29 | 107 | 32 | 549 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T05:14:48Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T05:14:32Z._
