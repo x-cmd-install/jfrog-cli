@@ -57,16 +57,16 @@ x install jfrog-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 5 | 12 | 3 | 2 | 5 | 10 |
-| last60d | 2026-09-10 | 7 | 19 | 8 | 2 | 8 | 23 |
-| 90d | 2026-08-11 | 12 | 46 | 14 | 3 | 12 | 49 |
-| last180d | 2026-05-13 | 27 | 157 | 25 | 11 | 18 | 160 |
-| 360d | 2025-11-14 | 48 | 289 | 25 | 38 | 32 | 284 |
-| last720d | 2024-11-19 | 80 | 469 | 25 | 106 | 32 | 549 |
+| 30d | 2026-10-11 | 5 | 12 | 3 | 2 | 5 | 10 |
+| last60d | 2026-09-11 | 7 | 19 | 8 | 2 | 7 | 23 |
+| 90d | 2026-08-12 | 12 | 45 | 14 | 3 | 12 | 49 |
+| last180d | 2026-05-14 | 27 | 157 | 24 | 11 | 18 | 160 |
+| 360d | 2025-11-15 | 48 | 289 | 25 | 38 | 32 | 284 |
+| last720d | 2024-11-20 | 79 | 469 | 25 | 106 | 32 | 546 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/jfrog-cli) 上共有 **90** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/jfrog-cli) 上共有 **90** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -74,7 +74,7 @@ x install jfrog-cli
 | Fedora rawhide | `2.131.0` | ✅ latest |
 | Nix unstable | `2.124.0` | ⚠️ outdated |
 | Alpine edge | `2.45.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.129.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.131.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ jfrog-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T04:45:52Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T06:00:33Z._
