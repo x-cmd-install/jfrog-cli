@@ -1,14 +1,12 @@
-- repo: nix_unstable
-  srcname: jfrog-cli
+- repo: wakemeops
+  subrepo: devops
+  binname: jfrog-cli
   visiblename: jfrog-cli
-  version: 2.124.0
-  origversion: null
-  status: outdated
-  summary: Client for accessing to JFrog's Artifactory and Mission Control through their respective REST APIs
+  version: 2.113.0
+  origversion: 2.113.0-1~ops2deb
+  status: legacy
   maintainers:
-    - detegr@rbx.email
-  licenses:
-    - Apache-2.0
+    - ops2deb@upciti.com
 - repo: alpine_edge
   subrepo: testing
   srcname: jfrog-cli
@@ -26,8 +24,8 @@
   srcname: jfrog-cli
   binname: jfrog-cli
   visiblename: jfrog-cli
-  version: 2.131.0
-  origversion: 2.131.0-1
+  version: 2.132.0
+  origversion: 2.132.0-1
   status: newest
   summary: Simple interface to Artifactory, Bintray and Mission Control
   maintainers:
@@ -38,8 +36,8 @@
   srcname: jfrog-cli-bin
   binname: jfrog-cli-bin
   visiblename: jfrog-cli-bin
-  version: 2.131.0
-  origversion: 2.131.0-1
+  version: 2.132.0
+  origversion: 2.132.0-1
   status: newest
   summary: Simple interface to Artifactory, Bintray and Mission Control
   maintainers:
@@ -150,12 +148,21 @@
   visiblename: jfrog-cli
   version: 2.131.0
   origversion: 2.131.0-1.fc46
-  status: newest
+  status: outdated
   summary: CLI to automate access to JFrog products
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense
   categories:
     - Unspecified
+- repo: wakemeops
+  subrepo: devops
+  binname: jfrog-cli
+  visiblename: jfrog-cli
+  version: 2.131.0
+  origversion: 2.131.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: gentoo
   srcname: dev-util/jfrog-cli
   visiblename: dev-util/jfrog-cli
@@ -207,6 +214,15 @@
     - MPL-2.0
   categories:
     - dev-util
+- repo: wakemeops
+  subrepo: devops
+  binname: jfrog-cli
+  visiblename: jfrog-cli
+  version: 2.112.0
+  origversion: 2.112.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: gentoo
   srcname: dev-util/jfrog-cli
   visiblename: dev-util/jfrog-cli
@@ -261,7 +277,7 @@
 - repo: homebrew
   srcname: jfrog-cli
   visiblename: jfrog-cli
-  version: 2.131.0
+  version: 2.132.0
   origversion: null
   status: newest
   summary: Command-line interface for JFrog products
@@ -289,6 +305,15 @@
     - MPL-2.0
   categories:
     - dev-util
+- repo: wakemeops
+  subrepo: devops
+  binname: jfrog-cli
+  visiblename: jfrog-cli
+  version: 2.130.0
+  origversion: 2.130.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: liguros_stable
   srcname: dev-util/jfrog-cli
   visiblename: dev-util/jfrog-cli
@@ -534,15 +559,17 @@
     - detegr@rbx.email
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: jfrog-cli
+- repo: nix_unstable
+  srcname: jfrog-cli
   visiblename: jfrog-cli
-  version: 2.120.0
-  origversion: 2.120.0-1~ops2deb
-  status: legacy
+  version: 2.124.0
+  origversion: null
+  status: outdated
+  summary: Client for accessing to JFrog's Artifactory and Mission Control through their respective REST APIs
   maintainers:
-    - ops2deb@upciti.com
+    - detegr@rbx.email
+  licenses:
+    - Apache-2.0
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: jfrog-cli
@@ -556,7 +583,7 @@
   visiblename: jfrog-cli
   version: 2.131.0
   origversion: 2.131.0-1.1
-  status: newest
+  status: outdated
   summary: A client that automates access to JFrog products
   licenses:
     - Apache-2.0
@@ -566,7 +593,7 @@
   subrepo: main
   binname: jfrog
   visiblename: jfrog
-  version: 2.131.0
+  version: 2.132.0
   origversion: null
   status: newest
   licenses:
@@ -575,7 +602,7 @@
   srcname: jfrog-cli
   binname: jfrog-cli
   visiblename: jfrog-cli
-  version: 2.131.0
+  version: 2.132.0
   origversion: null
   status: newest
   summary: A CLI for JFrog products
@@ -585,18 +612,9 @@
   subrepo: devops
   binname: jfrog-cli
   visiblename: jfrog-cli
-  version: 2.131.0
-  origversion: 2.131.0-1~ops2deb
+  version: 2.132.0
+  origversion: 2.132.0-1~ops2deb
   status: newest
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: jfrog-cli
-  visiblename: jfrog-cli
-  version: 2.130.0
-  origversion: 2.130.0-1~ops2deb
-  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -675,6 +693,15 @@
   subrepo: devops
   binname: jfrog-cli
   visiblename: jfrog-cli
+  version: 2.120.0
+  origversion: 2.120.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: jfrog-cli
+  visiblename: jfrog-cli
   version: 2.119.0
   origversion: 2.119.0-1~ops2deb
   status: legacy
@@ -722,24 +749,6 @@
   visiblename: jfrog-cli
   version: 2.114.0
   origversion: 2.114.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: jfrog-cli
-  visiblename: jfrog-cli
-  version: 2.113.0
-  origversion: 2.113.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: jfrog-cli
-  visiblename: jfrog-cli
-  version: 2.112.0
-  origversion: 2.112.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -1010,15 +1019,6 @@
   visiblename: jfrog-cli
   version: 2.79.1
   origversion: 2.79.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: jfrog-cli
-  visiblename: jfrog-cli
-  version: 2.79.0
-  origversion: 2.79.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
