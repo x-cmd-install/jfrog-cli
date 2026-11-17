@@ -26,7 +26,7 @@ Total: **78,123** lines of code across **610** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
@@ -42,36 +42,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.132.0` (2026-11-11)
-- **Last commit**: 2026-11-11
+- **Latest**: `v2.133.0` (2026-11-16)
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 596 · **Forks**: 312 · **Open issues**: 1,122 · **Contributors**: 116
+- **Stars**: 597 · **Forks**: 312 · **Open issues**: 1,123 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 371 · **Merged PRs**: 1846 · **Open PRs**: 28 · **Closed issues**: 1090 · **Open issues**: 32 · **Commits**: 3233
+- **Releases**: 372 · **Merged PRs**: 1847 · **Open PRs**: 27 · **Closed issues**: 1090 · **Open issues**: 33 · **Commits**: 3234
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 12 | 7 | 1 | 4 | 12 |
-| last60d | 2026-09-17 | 8 | 20 | 12 | 2 | 8 | 22 |
-| 90d | 2026-08-18 | 12 | 42 | 18 | 2 | 11 | 46 |
-| last180d | 2026-05-20 | 28 | 153 | 27 | 11 | 17 | 152 |
-| 360d | 2025-11-21 | 47 | 284 | 28 | 35 | 32 | 284 |
-| last720d | 2024-11-26 | 80 | 472 | 28 | 104 | 32 | 548 |
+| 30d | 2026-10-18 | 6 | 13 | 6 | 1 | 5 | 13 |
+| last60d | 2026-09-18 | 9 | 21 | 10 | 2 | 8 | 23 |
+| 90d | 2026-08-19 | 13 | 40 | 17 | 2 | 11 | 47 |
+| last180d | 2026-05-21 | 29 | 151 | 26 | 10 | 18 | 153 |
+| 360d | 2025-11-22 | 48 | 285 | 27 | 35 | 33 | 285 |
+| last720d | 2024-11-27 | 81 | 472 | 27 | 103 | 33 | 549 |
 
 ## Distribution status
 
-Reported by **90** distros on [repology.org](https://repology.org/project/jfrog-cli). **8** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/jfrog-cli). **4** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.132.0` | ✅ latest |
-| Fedora rawhide | `2.132.0` | ✅ latest |
+| Homebrew | `2.133.0` | ✅ latest |
+| Fedora rawhide | `2.132.0` | ⚠️ outdated |
 | Nix unstable | `2.124.0` | ⚠️ outdated |
 | Alpine edge | `2.45.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.131.0` | ⚠️ outdated |
@@ -85,4 +85,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T04:52:33Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T06:40:15Z._
