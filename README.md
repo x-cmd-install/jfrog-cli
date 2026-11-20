@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 597 · **Forks**: 313 · **Open issues**: 1,123 · **Contributors**: 116
+- **Stars**: 595 · **Forks**: 312 · **Open issues**: 1,123 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 372 · **Merged PRs**: 1848 · **Open PRs**: 28 · **Closed issues**: 1090 · **Open issues**: 33 · **Commits**: 3235
+- **Releases**: 372 · **Merged PRs**: 1848 · **Open PRs**: 29 · **Closed issues**: 1090 · **Open issues**: 33 · **Commits**: 3235
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 6 | 12 | 7 | 1 | 4 | 14 |
-| last60d | 2026-09-20 | 9 | 22 | 11 | 2 | 8 | 24 |
-| 90d | 2026-08-21 | 12 | 41 | 17 | 2 | 11 | 48 |
-| last180d | 2026-05-23 | 28 | 150 | 27 | 9 | 18 | 154 |
-| 360d | 2025-11-24 | 48 | 285 | 28 | 35 | 33 | 286 |
-| last720d | 2024-11-29 | 79 | 471 | 28 | 103 | 33 | 544 |
+| 30d | 2026-10-21 | 6 | 12 | 8 | 1 | 4 | 14 |
+| last60d | 2026-09-21 | 9 | 20 | 12 | 2 | 8 | 24 |
+| 90d | 2026-08-22 | 12 | 41 | 18 | 2 | 11 | 48 |
+| last180d | 2026-05-24 | 28 | 150 | 28 | 9 | 18 | 154 |
+| 360d | 2025-11-25 | 47 | 285 | 29 | 35 | 33 | 286 |
+| last720d | 2024-11-30 | 78 | 471 | 29 | 103 | 33 | 541 |
 
 ## Distribution status
 
@@ -72,7 +72,7 @@ Reported by **92** distros on [repology.org](https://repology.org/project/jfrog-
 |--------|---------|--------|
 | Homebrew | `2.133.0` | ✅ latest |
 | Fedora rawhide | `2.132.0` | ⚠️ outdated |
-| Nix unstable | `2.124.0` | ⚠️ outdated |
+| Nix unstable | `2.131.0` | ⚠️ outdated |
 | Alpine edge | `2.45.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.131.0` | ⚠️ outdated |
 
@@ -85,4 +85,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T06:00:05Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T05:48:54Z._
