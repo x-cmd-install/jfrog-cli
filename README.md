@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.133.0` (2026-11-16)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
@@ -51,27 +51,27 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 372 · **Merged PRs**: 1848 · **Open PRs**: 29 · **Closed issues**: 1090 · **Open issues**: 33 · **Commits**: 3235
+- **Releases**: 372 · **Merged PRs**: 1849 · **Open PRs**: 29 · **Closed issues**: 1090 · **Open issues**: 33 · **Commits**: 3236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 6 | 12 | 8 | 1 | 4 | 14 |
-| last60d | 2026-09-21 | 9 | 20 | 12 | 2 | 8 | 24 |
-| 90d | 2026-08-22 | 12 | 41 | 18 | 2 | 11 | 48 |
-| last180d | 2026-05-24 | 28 | 150 | 28 | 9 | 18 | 154 |
-| 360d | 2025-11-25 | 47 | 285 | 29 | 35 | 33 | 286 |
-| last720d | 2024-11-30 | 78 | 471 | 29 | 103 | 33 | 541 |
+| 30d | 2026-10-22 | 6 | 13 | 8 | 1 | 4 | 15 |
+| last60d | 2026-09-22 | 9 | 21 | 11 | 2 | 8 | 25 |
+| 90d | 2026-08-23 | 12 | 42 | 18 | 2 | 11 | 49 |
+| last180d | 2026-05-25 | 28 | 149 | 28 | 9 | 18 | 155 |
+| 360d | 2025-11-26 | 47 | 285 | 29 | 35 | 33 | 287 |
+| last720d | 2024-12-01 | 78 | 472 | 29 | 103 | 33 | 542 |
 
 ## Distribution status
 
-Reported by **92** distros on [repology.org](https://repology.org/project/jfrog-cli). **5** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/jfrog-cli). **6** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.133.0` | ✅ latest |
-| Fedora rawhide | `2.132.0` | ⚠️ outdated |
+| Fedora rawhide | `2.133.0` | ✅ latest |
 | Nix unstable | `2.131.0` | ⚠️ outdated |
 | Alpine edge | `2.45.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.131.0` | ⚠️ outdated |
@@ -85,4 +85,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T05:48:54Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T05:43:33Z._
