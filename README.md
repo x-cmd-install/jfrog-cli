@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 5 | 13 | 8 | 1 | 4 | 15 |
-| last60d | 2026-09-23 | 9 | 21 | 11 | 2 | 8 | 25 |
-| 90d | 2026-08-24 | 12 | 41 | 18 | 2 | 11 | 49 |
-| last180d | 2026-05-26 | 28 | 148 | 28 | 9 | 18 | 155 |
-| 360d | 2025-11-27 | 47 | 283 | 29 | 35 | 33 | 287 |
-| last720d | 2024-12-02 | 78 | 472 | 29 | 103 | 33 | 542 |
+| 30d | 2026-10-24 | 5 | 13 | 8 | 1 | 4 | 12 |
+| last60d | 2026-09-24 | 9 | 21 | 11 | 2 | 8 | 22 |
+| 90d | 2026-08-25 | 12 | 39 | 16 | 2 | 11 | 46 |
+| last180d | 2026-05-27 | 28 | 143 | 28 | 9 | 18 | 145 |
+| 360d | 2025-11-28 | 47 | 283 | 29 | 34 | 33 | 283 |
+| last720d | 2024-12-03 | 78 | 472 | 29 | 101 | 33 | 542 |
 
 ## Distribution status
 
-Reported by **92** distros on [repology.org](https://repology.org/project/jfrog-cli). **6** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/jfrog-cli). **7** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T05:12:35Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T05:53:39Z._
