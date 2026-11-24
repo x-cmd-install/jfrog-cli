@@ -30,8 +30,8 @@ x install jfrog-cli
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -51,30 +51,30 @@ x install jfrog-cli
 
 ## 累计统计
 
-- **发布数**: 372 · **已合并 PR**: 1849 · **开放 PR**: 29 · **已关闭 issue**: 1090 · **开放 issue**: 33 · **提交数**: 3236
+- **发布数**: 372 · **已合并 PR**: 1849 · **开放 PR**: 30 · **已关闭 issue**: 1090 · **开放 issue**: 33 · **提交数**: 3236
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 5 | 13 | 8 | 1 | 4 | 12 |
-| last60d | 2026-09-24 | 9 | 21 | 11 | 2 | 8 | 22 |
-| 90d | 2026-08-25 | 12 | 39 | 16 | 2 | 11 | 46 |
-| last180d | 2026-05-27 | 28 | 143 | 28 | 9 | 18 | 145 |
-| 360d | 2025-11-28 | 47 | 283 | 29 | 34 | 33 | 283 |
-| last720d | 2024-12-03 | 78 | 472 | 29 | 101 | 33 | 542 |
+| 30d | 2026-10-25 | 5 | 13 | 9 | 0 | 4 | 12 |
+| last60d | 2026-09-25 | 9 | 21 | 11 | 2 | 8 | 22 |
+| 90d | 2026-08-26 | 12 | 38 | 17 | 2 | 11 | 46 |
+| last180d | 2026-05-28 | 28 | 141 | 29 | 8 | 18 | 145 |
+| 360d | 2025-11-29 | 47 | 282 | 30 | 34 | 33 | 283 |
+| last720d | 2024-12-04 | 78 | 472 | 30 | 101 | 33 | 542 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/jfrog-cli) 上共有 **92** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/jfrog-cli) 上共有 **92** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**17** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `2.133.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.133.0` | ✅ latest |
 | Nix unstable | `2.131.0` | ⚠️ outdated |
 | Alpine edge | `2.45.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.131.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.133.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ jfrog-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T05:53:44Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T08:31:26Z._
