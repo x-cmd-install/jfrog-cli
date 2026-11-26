@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/jfrog/jfrog-cli/releases/446810588",
-  "assets_url": "https://api.github.com/repos/jfrog/jfrog-cli/releases/446810588/assets",
-  "upload_url": "https://uploads.github.com/repos/jfrog/jfrog-cli/releases/446810588/assets{?name,label}",
-  "html_url": "https://github.com/jfrog/jfrog-cli/releases/tag/v2.133.0",
-  "id": 446810588,
+  "url": "https://api.github.com/repos/jfrog/jfrog-cli/releases/458147515",
+  "assets_url": "https://api.github.com/repos/jfrog/jfrog-cli/releases/458147515/assets",
+  "upload_url": "https://uploads.github.com/repos/jfrog/jfrog-cli/releases/458147515/assets{?name,label}",
+  "html_url": "https://github.com/jfrog/jfrog-cli/releases/tag/v2.134.0",
+  "id": 458147515,
   "author": {
     "login": "IL-Automation",
     "id": 68326424,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAnGP4M4aocnc",
-  "tag_name": "v2.133.0",
-  "target_commitish": "db75e64b3d118127a1af9c8c6c1c4e5031a9134e",
-  "name": "2.133.0",
+  "node_id": "RE_kwDOAnGP4M4bTsa7",
+  "tag_name": "v2.134.0",
+  "target_commitish": "1aab3a185e243403bcdd6953357aec9fb72a87c8",
+  "name": "2.134.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-16T08:22:05Z",
-  "updated_at": "2026-11-16T09:12:26Z",
-  "published_at": "2026-11-16T09:12:07Z",
+  "created_at": "2026-11-25T10:40:17Z",
+  "updated_at": "2026-11-25T13:23:53Z",
+  "published_at": "2026-11-25T13:23:23Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/jfrog/jfrog-cli/tarball/v2.133.0",
-  "zipball_url": "https://api.github.com/repos/jfrog/jfrog-cli/zipball/v2.133.0",
-  "body": "## What changed in v2.133.0\n\n> Auto-generated from 3 repositories · 2026-11-16  \n> Comparing `v2.132.0` → `v2.133.0`\n\n> ℹ️  No changes in: gofrog, jfrog-cli-core, jfrog-cli-security, jfrog-client-go\n\n### 🐛 Bug Fixes\n\n- **[jfrog-cli-artifactory]** RTECO-2334 - Fix Conan build info artifact collection for references with user/channel [#609](https://github.com/jfrog/jfrog-cli-artifactory/pull/609) (@reshmifrog)\n- **[jfrog-cli-artifactory]** Fix Bundler credentials for usernames containing '@' [#585](https://github.com/jfrog/jfrog-cli-artifactory/pull/585) (@laurenverity)\n\n---\n\n### 📊 Summary\n\n| Repository | Changes |\n|---|---|\n| [jfrog-cli-artifactory](https://github.com/jfrog/jfrog-cli-artifactory) | 2 |\n| **Total** | **2** |\n\n### 🔗 Module Version Changes\n\n| Module | From | To |\n|---|---|---|\n| [build-info-go](https://github.com/jfrog/build-info-go) | `v1.13.1-0.20261104104131-29db5a20af18` | `v1.13.1-0.20261116054244-516777636d12` |\n| [jfrog-cli-artifactory](https://github.com/jfrog/jfrog-cli-artifactory) | `v0.8.1-0.20261111060712-4b23175bf2f5` | `v0.8.1-0.20261114093607-b0e387f3b7c5` |\n",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/jfrog/jfrog-cli/tarball/v2.134.0",
+  "zipball_url": "https://api.github.com/repos/jfrog/jfrog-cli/zipball/v2.134.0",
+  "body": "## What changed in v2.134.0\n\n> Auto-generated from 5 repositories · 2026-11-25  \n> Comparing `v2.133.0` → `v2.134.0`\n\n> ℹ️  No changes in: gofrog, jfrog-client-go\n\n### ✨ New Features\n\n- **[build-info-go]** RTECO-2751 - Select the Maven and Gradle build-info extractor version at run time [#440](https://github.com/jfrog/build-info-go/pull/440) (@bhanurp)\n- **[jfrog-cli-artifactory]** Add Kiro as a built-in skills agent [#610](https://github.com/jfrog/jfrog-cli-artifactory/pull/610) (@x4wiz)\n- **[jfrog-cli-artifactory]** RTECO-2751 - Use the newest allowed build-info extractor version in jf mvn and jf gradle [#612](https://github.com/jfrog/jfrog-cli-artifactory/pull/612) (@bhanurp)\n- **[jfrog-cli-core]** RTECO-2751 - Look up the newest allowed build-info extractor version [#1636](https://github.com/jfrog/jfrog-cli-core/pull/1636) (@bhanurp)\n- **[jfrog-cli-security]** XRAY-171808 - Support waiver request flow in npm debug report jf ca flow [#955](https://github.com/jfrog/jfrog-cli-security/pull/955) (@gauriy-tech)\n\n### 🐛 Bug Fixes\n\n- **[jfrog-cli]** RTECO-2334 - Fix Conan build info artifact collection for references with user/channel [#3760](https://github.com/jfrog/jfrog-cli/pull/3760) (@reshmifrog)\n- **[jfrog-cli-security]** XRAY-163145 - Dont exclude root name [#934](https://github.com/jfrog/jfrog-cli-security/pull/934) (@attiasas)\n- **[jfrog-cli-security]** XRAY-166562 - Check yarn scoped registries match jf c server before s… [#951](https://github.com/jfrog/jfrog-cli-security/pull/951) (@Phavya-jfrog)\n- **[jfrog-cli-security]** XRAY-158520 - Honour mvn profile and plugin dep ensuring correct result [#954](https://github.com/jfrog/jfrog-cli-security/pull/954) (@gauriy-tech)\n- **[jfrog-cli-security]** XRAY-170058 - Supports requirements file flag in jf ca [#952](https://github.com/jfrog/jfrog-cli-security/pull/952) (@gauriy-tech)\n- **[jfrog-cli-security]** XRAY-171777 - Improve npm debug parser in npm debug jf ca flow [#958](https://github.com/jfrog/jfrog-cli-security/pull/958) (@gauriy-tech)\n\n### 🔧 Internal Changes\n\n- **[jfrog-cli-security]** Update to Go 1.26.11 and update deps [#965](https://github.com/jfrog/jfrog-cli-security/pull/965) (@attiasas)\n\n### 📦 Other Changes\n\n- **[jfrog-cli-artifactory]** RTECO-2755 - nuget: warn instead of failing when the default deployment repo is hidden [#611](https://github.com/jfrog/jfrog-cli-artifactory/pull/611) (@agrasth)\n- **[jfrog-cli-security]** XRAY-167265 - jf ca Poetry cache [#945](https://github.com/jfrog/jfrog-cli-security/pull/945) (@Phavya-jfrog)\n- **[jfrog-cli-security]** XRAY-169343 - Parse the new all-versions-blocked message for npm and PyPI [#950](https://github.com/jfrog/jfrog-cli-security/pull/950) (@vageeshabr)\n\n---\n\n### 📊 Summary\n\n| Repository | Changes |\n|---|---|\n| [jfrog-cli-security](https://github.com/jfrog/jfrog-cli-security) | 9 |\n| [jfrog-cli-artifactory](https://github.com/jfrog/jfrog-cli-artifactory) | 3 |\n| [jfrog-cli](https://github.com/jfrog/jfrog-cli) | 1 |\n| [build-info-go](https://github.com/jfrog/build-info-go) | 1 |\n| [jfrog-cli-core](https://github.com/jfrog/jfrog-cli-core) | 1 |\n| **Total** | **15** |\n\n### 🔗 Module Version Changes\n\n| Module | From | To |\n|---|---|---|\n| [build-info-go](https://github.com/jfrog/build-info-go) | `v1.13.1-0.20261116054244-516777636d12` | `v1.13.1-0.20261123081207-c02cd6e0efe3` |\n| [jfrog-cli-artifactory](https://github.com/jfrog/jfrog-cli-artifactory) | `v0.8.1-0.20261114093607-b0e387f3b7c5` | `v0.8.1-0.20261123121052-aa01da19712d` |\n| [jfrog-cli-core](https://github.com/jfrog/jfrog-cli-core) | `v2.60.1-0.20261110101257-1f307dd84e3f` | `v2.60.1-0.20261123081300-20b7e1881072` |\n| [jfrog-cli-security](https://github.com/jfrog/jfrog-cli-security) | `v1.41.3` | `v1.41.4` |\n",
+  "mentions_count": 8
 }
