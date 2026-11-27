@@ -14,11 +14,11 @@ x install jfrog-cli
 
 ## Code insight
 
-Total: **78,185** lines of code across **610** files in the top 5 languages.
+Total: **78,378** lines of code across **610** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 67,804 | 8,961 | 12,000 | 285 |
+| Go | 67,860 | 8,976 | 12,008 | 285 |
 | Json | 3,197 | 0 | 8 | 235 |
 | Sh | 2,188 | 308 | 386 | 29 |
 | Hcl | 1,694 | 240 | 384 | 39 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.134.0` (2026-11-25)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 595 · **Forks**: 312 · **Open issues**: 1,122 · **Contributors**: 116
+- **Stars**: 595 · **Forks**: 313 · **Open issues**: 1,122 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 373 · **Merged PRs**: 1850 · **Open PRs**: 31 · **Closed issues**: 1089 · **Open issues**: 33 · **Commits**: 3237
+- **Releases**: 373 · **Merged PRs**: 1851 · **Open PRs**: 31 · **Closed issues**: 1089 · **Open issues**: 33 · **Commits**: 3239
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 6 | 13 | 11 | 0 | 4 | 13 |
-| last60d | 2026-09-27 | 10 | 22 | 12 | 2 | 8 | 23 |
-| 90d | 2026-08-28 | 12 | 37 | 19 | 2 | 11 | 47 |
-| last180d | 2026-05-30 | 28 | 142 | 31 | 8 | 18 | 146 |
-| 360d | 2025-12-01 | 48 | 282 | 31 | 33 | 33 | 284 |
-| last720d | 2024-12-06 | 79 | 473 | 31 | 99 | 33 | 542 |
+| 30d | 2026-10-28 | 6 | 13 | 9 | 0 | 4 | 15 |
+| last60d | 2026-09-28 | 10 | 22 | 12 | 2 | 8 | 25 |
+| 90d | 2026-08-29 | 12 | 38 | 19 | 2 | 11 | 49 |
+| last180d | 2026-05-31 | 28 | 143 | 31 | 8 | 18 | 148 |
+| 360d | 2025-12-02 | 48 | 281 | 31 | 33 | 33 | 286 |
+| last720d | 2024-12-07 | 79 | 474 | 31 | 99 | 33 | 544 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jfrog-cli lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T06:57:03Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T06:51:09Z._
