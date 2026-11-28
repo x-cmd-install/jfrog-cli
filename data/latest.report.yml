@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.134.0"
   latestRelease: "v2.134.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T06:50:36Z
+  collectedAt: 2026-11-28T06:24:02Z
 timeline:
   created: 2015-08-18
   lastCommit: 2026-11-27
@@ -23,72 +23,72 @@ popularity:
   pullRequest: 2433
   issue: 1122
 language:
-  Go: 3205198
+  Go: 3210083
   Shell: 75211
   JavaScript: 8906
   Makefile: 5395
   Dockerfile: 1479
   Batchfile: 82
-totalBytes: 3296271
+totalBytes: 3301156
 recent:
   last30d:
-    since: 2026-10-28
-    release: 6
-    mergedPR: 13
+    since: 2026-10-29
+    release: 5
+    mergedPR: 11
     openPR: 9
-    closedIssue: 0
-    openIssue: 4
+    closedIssue: 1
+    openIssue: 3
     commit: 15
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 10
     mergedPR: 22
     openPR: 12
-    closedIssue: 2
-    openIssue: 8
+    closedIssue: 3
+    openIssue: 7
     commit: 25
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 12
     mergedPR: 38
     openPR: 19
-    closedIssue: 2
-    openIssue: 11
+    closedIssue: 3
+    openIssue: 10
     commit: 49
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 28
-    mergedPR: 143
+    mergedPR: 139
     openPR: 31
-    closedIssue: 8
-    openIssue: 18
+    closedIssue: 9
+    openIssue: 17
     commit: 148
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 48
     mergedPR: 281
     openPR: 31
-    closedIssue: 33
-    openIssue: 33
+    closedIssue: 34
+    openIssue: 32
     commit: 286
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 79
-    mergedPR: 474
+    mergedPR: 472
     openPR: 31
-    closedIssue: 99
-    openIssue: 33
+    closedIssue: 100
+    openIssue: 32
     commit: 544
 total:
   release: 373
   mergedPR: 1851
   openPR: 31
-  closedIssue: 1089
-  openIssue: 33
+  closedIssue: 1090
+  openIssue: 32
   commit: 3239
 ---
 path: /home/runner/.x-repo/github.com/jfrog/jfrog-cli
-collectedAt: 2026-11-27T06:50:47Z
+collectedAt: 2026-11-28T06:24:14Z
 loc:
   Go:
     code: 67860
